@@ -14,4 +14,4 @@
 * **Key Visuals:** Built a **Scatter Plot** for salary vs. qualification and a **Cumulative Headcount** line chart to show company growth.
 * **Interactive Features:** Implemented **Small Multiples** and Tooltips to see "LBL over 20 days" per job title.
 
-![HR Analytics Dashboard](./hr-screenshot.png)
+![HR Analytics Dashboard](./HR%20ANALYSIS.PNG)
