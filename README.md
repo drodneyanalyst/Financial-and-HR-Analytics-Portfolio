@@ -4,7 +4,7 @@
 * **Financial Logic:** Tracked **$7.4M in Assets Under Management (AUM)** and analyzed **NAV recovery trends**.
 * **Key Features:** Built automated data cleaning pipelines in **Power Query** to handle complex financial statement formatting.
 
-![UTC Dashboard](./utc-screenshot.png)
+![UTC Dashboard](./UTC%20CAYMAN%20SPC%20ANNUAL%20REPORT%202024.PNG)
 
 ---
 
